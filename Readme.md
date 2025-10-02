@@ -512,7 +512,7 @@ _build_final_recommendation()    # Investment decision
 ## 📸 Screenshots & Demo
 
 ### Screenshot 1: Agent Development Kit UI
-![ADK UI](screenshots/Screenshot 2025-10-02 103452.png)
+![ADK UI](https://github.com/tejuiceB/Startup_Analyst_Agent/blob/main/screenshots/Screenshot%202025-10-02%20103452.png)
 *The main interface showing the agent orchestrator with all 9 agents*
 
 ### Screenshot 2: Document Upload Flow
