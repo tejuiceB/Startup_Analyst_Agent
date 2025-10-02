@@ -276,25 +276,11 @@ Python 3.10+
 Google ADK (Agent Development Kit)
 ```
 
-### Required Libraries
-```bash
-pip install google-adk
-pip install python-pptx        # PowerPoint processing
-pip install PyPDF2              # PDF processing
-pip install python-docx         # Word document processing
-pip install openpyxl            # Excel processing
-pip install pandas              # Data analysis
-pip install Pillow              # Image processing
-pip install pytesseract         # OCR (optional)
-pip install beautifulsoup4      # Web scraping
-pip install requests            # HTTP requests
-```
-
 ### Setup Steps
 
 1. **Clone the repository**
 ```bash
-cd c:\Users\Tejas\OneDrive\Desktop\agents
+https://github.com/tejuiceB/Startup_Analyst_Agent.git
 ```
 
 2. **Install dependencies**
@@ -315,7 +301,7 @@ adk dev
 
 5. **Access the UI**
 ```
-Open browser: http://127.0.0.1:8000/dev-ui
+Open browser: http://127.0.0.1:8000
 ```
 
 ---
@@ -591,22 +577,6 @@ except Exception as e:
 ```
 
 ---
-
-## 📊 Project Statistics
-
-**Development Timeline:**
-- Phase 1 (Auto-Analysis & Memory): 2 hours
-- Phase 2 (Report Generation): 2 hours
-- Bug Fixes & Refinements: 1 hour
-- **Total Development Time: 5 hours**
-
-**Code Metrics:**
-- **Total Lines of Code: 1,800+**
-- **Functions: 50+**
-- **Agent Tools: 20+**
-- **File Formats Supported: 10+**
-- **Specialized Agents: 8**
-
 **Features Delivered:**
 - ✅ 9 AI agents working in harmony
 - ✅ 10+ document formats supported
@@ -672,23 +642,6 @@ This project was built as a demonstration of multi-agent AI systems for startup 
 5. Production-ready AI development
 
 ---
-
-## 📝 License
-
-This project is for educational and demonstration purposes.
-
----
-
-## 👨‍💻 Author
-
-**Tejas**
-- Built with the mindset: "What would Mark Zuckerberg do?"
-- Focus on simplicity, security, and production readiness
-- Every change impacts minimal code
-- Security is tight, always production-ready
-
----
-
 ## 🎯 Conclusion
 
 The **Startup Investor Agent** demonstrates how multiple specialized AI agents can work together to automate complex investment analysis workflows. By combining document processing, memory systems, and intelligent analysis, we've created a tool that helps investors make faster, more informed decisions.
@@ -702,9 +655,3 @@ The **Startup Investor Agent** demonstrates how multiple specialized AI agents c
 - ✅ Production-ready, secure implementation
 
 **Try it yourself and experience the future of AI-powered investment analysis!** 🚀
-
----
-
-*Last Updated: October 2, 2025*
-*Version: 2.0*
-*Status: Production Ready ✅*
