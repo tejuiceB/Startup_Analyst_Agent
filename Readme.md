@@ -512,60 +512,19 @@ _build_final_recommendation()    # Investment decision
 ## 📸 Screenshots & Demo
 
 ### Screenshot 1: Agent Development Kit UI
-![ADK UI](./screenshots/adk_ui.png)
+![ADK UI](screenshots/Screenshot 2025-10-02 103452.png)
 *The main interface showing the agent orchestrator with all 9 agents*
 
 ### Screenshot 2: Document Upload Flow
-![Document Upload](./screenshots/document_upload.png)
+![Document Upload](https://github.com/tejuiceB/Startup_Analyst_Agent/blob/main/screenshots/Screenshot%202025-10-02%20103222.png)
 *Uploading Jyoti pitch deck - 3 files processed automatically*
-
-### Screenshot 3: Auto-Analysis in Progress
-![Auto Analysis](./screenshots/auto_analysis.png)
-*All 8 specialized agents executing simultaneously*
-
-### Screenshot 4: Comprehensive Report Generated
-![Report Generated](./screenshots/report_generated.png)
-*Complete investor analysis with real insights from documents*
-
-### Screenshot 5: Agent Trace Visualization
-![Agent Trace](./screenshots/agent_trace.png)
-*Visual representation of all agent invocations and data flow*
-
-### Screenshot 6: Investment Scorecard
-![Investment Scorecard](./screenshots/scorecard.png)
-*Detailed scorecard with category-wise ratings*
-
-### Screenshot 7: Risk Assessment Matrix
-![Risk Matrix](./screenshots/risk_matrix.png)
-*Comprehensive risk analysis with mitigation strategies*
-
-### Screenshot 8: Follow-up Questions
-![Follow-up](./screenshots/followup.png)
-*Agent using memory to answer contextual questions*
 
 ---
 
 ## 🎥 Video Demonstration
 
 ### Full Demo Video
-[![Watch Demo](./screenshots/video_thumbnail.png)](./demo/full_demo.mp4)
-
-**Video Contents:**
-1. Introduction (0:00 - 0:30)
-2. Document upload process (0:30 - 1:00)
-3. Auto-analysis execution (1:00 - 2:00)
-4. Report generation (2:00 - 3:30)
-5. Following up with questions (3:30 - 4:30)
-6. Memory system demonstration (4:30 - 5:00)
-
-### Quick Start Video
-[![Quick Start](./screenshots/quickstart_thumbnail.png)](./demo/quick_start.mp4)
-
-**5-minute tutorial covering:**
-- Setup and installation
-- First document upload
-- Understanding the report
-- Asking questions
+[![Watch Demo](https://github.com/tejuiceB/Startup_Analyst_Agent/blob/main/screenshots/Screenshot%202025-10-02%20105453.png)](https://github.com/tejuiceB/Startup_Analyst_Agent/blob/main/demo/Screen%20Recording%202025-10-02%20103649.mp4)
 
 ---
 
