@@ -1,0 +1,11 @@
+google-adk
+requests
+beautifulsoup4
+lxml
+python-pptx
+PyPDF2
+python-docx
+openpyxl
+pillow
+pytesseract
+pandas
